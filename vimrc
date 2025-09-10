@@ -27,7 +27,7 @@ map <F5> :source ~/.vimrc<CR>
 
 " Remap escape
 "inoremap jh <Esc>
-inoremap ii <Esc>
+inoremap ,i <Esc>
 set hlsearch
 
 " <CTRl-l> redraws the screen and removes any search highlights.
